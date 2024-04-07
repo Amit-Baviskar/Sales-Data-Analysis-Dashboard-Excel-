@@ -1,4 +1,5 @@
 ## SALES DATA ANALYSIS 
+
 To analyze the sales data of Exion Sales Company from 2013 to 2016, you can follow these steps:
 
 Data Cleaning: Ensure that the raw data is clean and formatted properly. This may involve handling missing values, correcting errors, and standardizing formats.
@@ -17,6 +18,7 @@ By following these steps, you can effectively analyze the sales data of Exion Sa
 
 
 ## Problem Statement 
+
 1. Find Total Sales Per Year?
 2. Find Total Sales By Month?
 3. Find Types OF Contanier In Sale In Each Year?
