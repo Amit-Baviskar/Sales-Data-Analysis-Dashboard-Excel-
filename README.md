@@ -25,3 +25,7 @@ By following these steps, you can effectively analyze the sales data of Exion Sa
 4. Predication In Upcoming Year?
 5. Find Top 5 Manger In Sales?
 6. Find Performance Of Each Manger ?
+
+
+# Dasshboard 
+![image](https://github.com/Amit-Baviskar/Sales-Data-Analysis-Dashboard-Excel-/assets/153518736/94700a65-bd0f-4773-8717-511ec88cb4ca)
